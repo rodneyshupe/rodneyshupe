@@ -1,9 +1,18 @@
-## About Rodney
+### Rodney Shupe
+<!--
+**rodneyshupe/rodneyshupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-### At Home
-I am a husband and father.  I love to cook and am a bit of a Science Fiction and Sports nut.
+#### Who am I
 
-### At Work
+**At Home**
+I am a husband and father.  I love to cook and am a bit of a Science Fiction and Sports nut.  I only write code for personal projects and tools to help me accomplish tasks and make my life easier or more fun.
+
+**At Work**
+I am a leader, and although I don't write much code any more I have led multi-national software development teams delivering large-scale and high availability solutions.
+<details>
+<summary>Click here for more...</summary>
+<p>
 I am an accomplished technology leader with a successful track record of leading multinational teams, and delivering large-scale, high availability, high-value, innovative software solutions. Extensive experience in streamlining processes to bring value and generate efficiencies. Skilled in project management, specifications gathering, business analytics, troubleshooting, and the entire software development lifecycle under a variety of different methodologies. Key strengths include relationship building and a strong customer focus.
 
 *Software engineering leadership and management experience*
@@ -21,10 +30,16 @@ I am an accomplished technology leader with a successful track record of leading
 * Experience in evaluating and making high impact technology decisions (buy, out-source, open source, build.)
 * Designed and deployed out cloud based architectures using Amazon Web Services
 * Setup test-driven development leading to continuous integration.
+</p>
+</details>
 
-<!--
-**rodneyshupe/rodneyshupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+#### Where can you find me
+* [LinkedIn](https://www.linkedin.com/in/rodneyshupe/)
+* [Facebook](https://www.facebook.com/RodneyShupe)
+* [Twitter](https://twitter.com/RodneyShupe)
+* [Instagram](https://www.instagram.com/RodneyShupe/)
+
+
 
 <!--
 Here are some ideas to get you started:
