@@ -60,9 +60,13 @@ strong customer focus.
 
 * [<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn](https://www.linkedin.com/in/rodneyshupe/)
 * [Facebook](https://www.facebook.com/RodneyShupe)
-* [<img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> Twitter](https://twitter.com/RodneyShupe)
+* [<img align="left" alt="Rodney Shupe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> Twitter](https://twitter.com/RodneyShupe)
 * [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />&nbsp;Instagram](https://www.instagram.com/RodneyShupe/)
-* [![Facebook](images/Facebook.svg?raw=true "Facebook")](https://www.facebook.com/RodneyShupe)
+
+[![LinkedIn](images/LinkedIn.svg?raw=true "LinkedIn")](https://www.linkedin.com/in/rodneyshupe/ =50x50)
+[![Rodney Shupe | Facebook](images/Facebook.svg?raw=true "Facebook")](https://www.facebook.com/RodneyShupe)
+[![Rodney Shupe | Twitter](images/Twitter.svg?raw=true "Twitter")](https://twitter.com/RodneyShupe)
+[![Rodney Shupe | Instagram](images/Instagram.svg?raw=true "Instagram")](https://www.instagram.com/RodneyShupe/)
 <!--
 <a href="https://t.me/">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
