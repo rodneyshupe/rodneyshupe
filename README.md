@@ -63,7 +63,8 @@ strong customer focus.
 * [<img align="left" alt="Rodney Shupe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> Twitter](https://twitter.com/RodneyShupe)
 * [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />&nbsp;Instagram](https://www.instagram.com/RodneyShupe/)
 
-[![LinkedIn](images/LinkedIn.svg?raw=true "LinkedIn" =50x50)](https://www.linkedin.com/in/rodneyshupe/)
+[<img src="images/LinkedIn.svg?raw=true" alt="LinkedIn" width="50" height="50"/>](https://www.linkedin.com/in/rodneyshupe/)
+[<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/Facebook.svg" alt="Rodney Shupe | Facebook" width="50" height="50"/>](https://www.facebook.com/RodneyShupe)
 [![Rodney Shupe | Facebook](images/Facebook.svg?raw=true "Facebook")](https://www.facebook.com/RodneyShupe)
 [![Rodney Shupe | Twitter](images/Twitter.svg?raw=true "Twitter")](https://twitter.com/RodneyShupe)
 [![Rodney Shupe | Instagram](images/Instagram.svg?raw=true "Instagram")](https://www.instagram.com/RodneyShupe/)
