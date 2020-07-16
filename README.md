@@ -3,6 +3,7 @@
 **rodneyshupe/rodneyshupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+
 #### Who am I
 
 **At Home**
@@ -56,10 +57,26 @@ strong customer focus.
 </details>
 
 #### Where can you find me
-* [LinkedIn](https://www.linkedin.com/in/rodneyshupe/)
+
+* [<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn](https://www.linkedin.com/in/rodneyshupe/)
 * [Facebook](https://www.facebook.com/RodneyShupe)
-* [Twitter](https://twitter.com/RodneyShupe)
-* [Instagram](https://www.instagram.com/RodneyShupe/)
+* [<img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> Twitter](https://twitter.com/RodneyShupe)
+* [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />&nbsp;Instagram](https://www.instagram.com/RodneyShupe/)
+
+<!--
+<a href="https://t.me/">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.reddit.com/user//">
+  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://leetcode.com//">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://www.codechef.com/users/">
+  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+-->
 
 
 
