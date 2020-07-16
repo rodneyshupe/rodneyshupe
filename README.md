@@ -62,7 +62,7 @@ strong customer focus.
 * [Facebook](https://www.facebook.com/RodneyShupe)
 * [<img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> Twitter](https://twitter.com/RodneyShupe)
 * [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />&nbsp;Instagram](https://www.instagram.com/RodneyShupe/)
-
+* [![Facebook](images/Facebook.svg?raw=true "Facebook")](https://www.facebook.com/RodneyShupe)
 <!--
 <a href="https://t.me/">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
