@@ -1,8 +1,17 @@
-### Rodney Shupe
+# [![Vancouver Skyline](https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/banner.jpg)](https://www.linkedin.com/in/rodneyshupe/)
+<p align='center'>
+[<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/LinkedIn.svg" alt="LinkedIn" width="30" height="30" />](https://www.linkedin.com/in/rodneyshupe/)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Facebook.svg" alt="Rodney Shupe | Facebook" width="30" height="30" />](https://www.facebook.com/RodneyShupe)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Twitter.svg" alt="Twitter" width="30" height="30" />](https://twitter.com/RodneyShupe)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Instagram.svg" alt="Rodney Shupe | Instagram" width="30" height="30" />](https://www.instagram.com/RodneyShupe)
+</p>
+
+### Rodney Shupe (he/him)
 <!--
 **rodneyshupe/rodneyshupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+---
 
 #### Who am I
 
@@ -62,22 +71,6 @@ strong customer focus.
 [<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Facebook.svg" alt="Rodney Shupe | Facebook" width="50" height="50" />](https://www.facebook.com/RodneyShupe)
 [<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Twitter.svg" alt="Twitter" width="50" height="50" />](https://twitter.com/RodneyShupe)
 [<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Instagram.svg" alt="Rodney Shupe | Instagram" width="50" height="50" />](https://www.instagram.com/RodneyShupe)
-
-<!--
-<a href="https://t.me/">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.reddit.com/user//">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://leetcode.com//">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/">
-  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
--->
-
 
 
 <!--
