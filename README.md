@@ -9,9 +9,16 @@
 <!--
 **rodneyshupe/rodneyshupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+I like experimenting with new technologies, building small projects, and love to to experiment in the kitchen.
+
+Here's a list of things I currently keep myself busy with:
+
+* 💻 I am currently working as an Engineering Manager at **[Unbounce](https://unbounce.com)** and we are [hiring](https://unbounce.com/careers).
+* ☀️ Maintaining **[recipe-dl](https://github.com/rodneyshupe/recipe-dl)**, an open-source project for taking online recipes and converting to json, Markdown and reStructuredText (the default)
 
 ---
-
+<details>
+<summary>Some more details about me...</summary
 #### Who am I
 
 **At Home**
@@ -41,6 +48,9 @@ I am an accomplished technology leader with a successful track record of leading
 * Setup test-driven development leading to continuous integration.
 </p>
 </details>
+</details>
+
+<!--
 
 #### Where can you find me
 
@@ -49,6 +59,7 @@ I am an accomplished technology leader with a successful track record of leading
 [<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Twitter.svg" alt="Twitter" width="50" height="50" />](https://twitter.com/RodneyShupe)
 [<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Instagram.svg" alt="Rodney Shupe | Instagram" width="50" height="50" />](https://www.instagram.com/RodneyShupe)
 
+-->
 
 <!--
 Here are some ideas to get you started:
