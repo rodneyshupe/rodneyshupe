@@ -58,10 +58,10 @@ strong customer focus.
 
 #### Where can you find me
 
-[<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/LinkedIn.svg" alt="LinkedIn" width="50" height="50" />](https://www.linkedin.com/in/rodneyshupe/)
-[<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/Facebook.svg" alt="Rodney Shupe | Facebook" width="50" height="50" />](https://www.facebook.com/RodneyShupe)
-[<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/Twitter.svg" alt="Twitter" width="50" height="50" />](https://twitter.com/RodneyShupe)
-[<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/Instagram.svg" alt="Rodney Shupe | Instagram" width="50" height="50" />](https://www.instagram.com/RodneyShupe)
+[<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/LinkedIn.svg" alt="LinkedIn" width="50" height="50" />](https://www.linkedin.com/in/rodneyshupe/)
+[<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Facebook.svg" alt="Rodney Shupe | Facebook" width="50" height="50" />](https://www.facebook.com/RodneyShupe)
+[<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Twitter.svg" alt="Twitter" width="50" height="50" />](https://twitter.com/RodneyShupe)
+[<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Instagram.svg" alt="Rodney Shupe | Instagram" width="50" height="50" />](https://www.instagram.com/RodneyShupe)
 
 <!--
 <a href="https://t.me/">
