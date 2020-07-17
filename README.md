@@ -1,10 +1,9 @@
 # [![Vancouver Skyline](https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/banner.jpg)](https://www.linkedin.com/in/rodneyshupe/)
 <p align='center'>
-[<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/LinkedIn.svg" alt="LinkedIn" width="30" height="30" />](https://www.linkedin.com/in/rodneyshupe/)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Facebook.svg" alt="Rodney Shupe | Facebook" width="30" height="30" />](https://www.facebook.com/RodneyShupe)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Twitter.svg" alt="Twitter" width="30" height="30" />](https://twitter.com/RodneyShupe)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Instagram.svg" alt="Rodney Shupe | Instagram" width="30" height="30" />](https://www.instagram.com/RodneyShupe)
-</p>
+<a href="https://www.linkedin.com/in/rodneyshupe/"><img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/LinkedIn.svg" alt="LinkedIn" width="30" height="30" /></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/RodneyShupe"><img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Facebook.svg" alt="Rodney Shupe | Facebook" width="30" height="30" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/RodneyShupe"><img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Twitter.svg" alt="Twitter" width="30" height="30" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/RodneyShupe"><img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Instagram.svg" alt="Rodney Shupe | Instagram" width="30" height="30" /></a>
 
 ### Rodney Shupe (he/him)
 <!--
