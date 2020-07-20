@@ -1,4 +1,16 @@
 # [![Vancouver Skyline](https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/banner.jpg)](https://www.linkedin.com/in/rodneyshupe/)
+<!--
+
+  \|/ ____ \|/  88888b   d888b  88b  88 8 888888    88888b   888    88b  88 88  d888b  88
+   @~/ ,. \~@   88   88 88   88 888b 88 P   88      88   88 88 88   888b 88 88 88   `  88
+  /_( \__/ )_\  88   88 88   88 88`8b88     88      88888P 88   88  88`8b88 88 88      88
+     \__U_/     88   88 88   88 88 `888     88      88    d8888888b 88 `888 88 88   ,  `"
+                88888P   T888P  88  `88     88      88    88     8b 88  `88 88  T888P  88
+
+Since you are checking out the code you are the kind of person I like to hire.  You can
+reach out to me though LinkedIn
+
+-->
 <p align='center'>
 <a href="https://www.linkedin.com/in/rodneyshupe/"><img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/LinkedIn.svg" alt="LinkedIn" width="30" height="30" /></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/RodneyShupe"><img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Facebook.svg" alt="Rodney Shupe | Facebook" width="30" height="30" /></a>&nbsp;&nbsp;
