@@ -21,12 +21,12 @@ stopwords.update(["currently", "using", "here", "set", "at", "project", "click",
 wordcloud = WordCloud(width = 1200, height = 300,
 				background_color='white',
 				#colormap='Set2',
-				colormap='rainbow',
+				#colormap='rainbow',
+				colormap='Oranges_r',
 				min_font_size = 9,
 				random_state=1,
                 max_words=50,
 				stopwords = stopwords).generate(comment_words)
 #change the color setting
-#wordcloud.recolor(color_func = grey_color_func)
 
 wordcloud.to_file("../images/bannerwc.png")
