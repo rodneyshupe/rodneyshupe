@@ -18,7 +18,7 @@ comment_words = BeautifulSoup(html, 'html5lib').text.lower()
 stopwords = set(STOPWORDS)
 stopwords.update(["currently", "using", "here", "set", "at", "project", "click", "high"])
 
-wordcloud = WordCloud(width = 800, height = 200,
+wordcloud = WordCloud(width = 1200, height = 300,
 				background_color='black',
 				#colormap='Set2',
 				colormap='rainbow',
