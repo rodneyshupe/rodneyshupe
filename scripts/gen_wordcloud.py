@@ -19,7 +19,7 @@ stopwords = set(STOPWORDS)
 stopwords.update(["currently", "using", "here", "set", "at", "project", "click", "high"])
 
 wordcloud = WordCloud(width = 1200, height = 300,
-				background_color='black',
+				background_color='white',
 				#colormap='Set2',
 				colormap='rainbow',
 				min_font_size = 9,
