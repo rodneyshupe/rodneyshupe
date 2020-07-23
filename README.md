@@ -1,7 +1,7 @@
 <!--
 # [![Vancouver Skyline](https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/banner.jpg)](https://www.linkedin.com/in/rodneyshupe/)
 -->
-# ![Vancouver Skyline](https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/bannerwc.png)
+# ![Vancouver Skyline](https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/banner.png)
 <p align='center'>
 <a href="https://www.linkedin.com/in/rodneyshupe/"><img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/LinkedIn.svg" alt="LinkedIn" width="30" height="30" /></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/RodneyShupe"><img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Facebook.svg" alt="Rodney Shupe | Facebook" width="30" height="30" /></a>&nbsp;&nbsp;
@@ -33,6 +33,7 @@ Here's a list of things I currently keep myself busy with:
 ---
 <details>
 <summary>Some more details about me...</summary>
+
 #### Who am I
 
 **At Home**

@@ -1,0 +1,35 @@
+Rodney Shupe
+
+Software Development Leader who led multi-national teams delivering large-scale
+and high availability solutions.
+
+Accomplished technology leader with a successful track record of leading
+multinational teams, and delivering large-scale, high availability, high-value,
+innovative software solutions. Extensive experience in streamlining processes
+to bring value and generate efficiencies. Skilled in project management,
+specifications gathering, business analytics, troubleshooting, and the entire
+software development lifecycle under a variety of different methodologies. Key
+strengths include relationship building and a strong customer focus.
+
+Reported to the Vice President of Platforms overseeing the management and
+maintenance of APIs for Product Licensing and Configuration, servicing front
+end systems utilized by over 100,000+ customers and 50 million consumers
+monthly.
+
+Reported to the Vice President of Enterprise Systems and was responsible for
+strategic and tactical direction of self-service functionality for the
+enterprise integrating legacy applications and CRM and ERP systems. These
+systems reduced the load on human call centre agents in both Sales and
+Customer Service capacities increasing the company's ability to scale.
+
+Teams were responsible for internal software serving the entire MOVE Inc.
+enterprise, for CRM, Order to Cash, ERP, HRIS, Finance and fulfillment. This
+included internally built applications as well as third party apps (PeopleSoft
+Financials, Siebel, etc.) and involved a multi-million dollar budget. These
+systems handled billing for the main company vertices and handled more than
+$200 million in billings annually.
+
+Software development team responsible for internal CRM, Order to Cash,
+Fulfillment and Reporting systems serving one of British Columbia’s Top 25
+software companies, and the world leader in real estate sales and marketing
+software.
