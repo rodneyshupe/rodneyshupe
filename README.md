@@ -40,7 +40,7 @@ Here's a list of things I currently keep myself busy with:
 I am a husband and father.  I love to cook and am a bit of a Science Fiction and Sports nut.  I only write code for personal projects and tools to help me accomplish tasks and make my life easier or more fun.
 
 **At Work**
-I am a leader, and although I don't write much code any more I have led multi-national software development teams for over 20 years.
+I am a leader, and although I don't write much code any more I have led multi-national software development teams for over 20 years. For more on how I like to work you can read my [manager README](https://github.com/rodneyshupe/Rodney-README)
 <details>
 <summary>Click here for more...</summary>
 <p>
