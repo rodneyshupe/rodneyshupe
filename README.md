@@ -3,7 +3,7 @@
 -->
 <!--
 # [![Vancouver Skyline](https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/banner.jpg)](https://www.linkedin.com/in/rodneyshupe/)
--->
+
 # ![Vancouver Skyline](https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/banner.png)
 <p align='center'>
 <a href="https://www.linkedin.com/in/rodneyshupe/"><img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/LinkedIn.svg" alt="LinkedIn" width="30" height="30" /></a>&nbsp;&nbsp;
@@ -11,6 +11,7 @@
 <a href="https://twitter.com/RodneyShupe"><img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Twitter.svg" alt="Twitter" width="30" height="30" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/RodneyShupe"><img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Instagram.svg" alt="Rodney Shupe | Instagram" width="30" height="30" /></a>
 </p>
+-->
 
 <!--
 |  \|/ ____ \|/  88888b   d888b  88b  88 8 888888    88888b   888    88b  88 88  d888b  88
